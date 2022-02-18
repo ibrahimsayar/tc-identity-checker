@@ -4,7 +4,7 @@ T.C. identity checker, without the need for any service, T.C. is a function that
 
 ## Installation
 
-It doesn't need any installation, it works on all php versions.
+It doesn't need any installation, it works in php 4 and all later versions.
 
 ## Usage
 
