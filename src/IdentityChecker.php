@@ -1,10 +1,10 @@
 <?php
 
-namespace Checker;
+namespace ibrahimsayar\IdentityChecker;
 
-class Checker
+class IdentityChecker
 {
-	public function TcCheck(int $identityNumber): bool
+	public function check(int $identityNumber): bool
 	{
 		if (!is_numeric($identityNumber) || $identityNumber[0] == 0) {
 	        return false;
