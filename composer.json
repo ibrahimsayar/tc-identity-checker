@@ -20,5 +20,6 @@
         "psr-4": {
             "ibrahimsayar\\Checker\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
