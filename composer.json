@@ -14,5 +14,12 @@
         "psr-4": {
             "IdentityChecker\\": "src/"
         }
-    }
+    },
+    "require": {
+        "php": "^7.1|^8"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "minimum-stability": "dev"
 }
