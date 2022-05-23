@@ -1,0 +1,13 @@
+{
+    "name": "ibrahimsayar/tc-identity-checker",
+    "description": "Republic of Turkey ID number verification function.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ibrahim.sayar",
+            "email": "ibrahim.sayar@naylalabs.com"
+        }
+    ],
+    "require": {}
+}
