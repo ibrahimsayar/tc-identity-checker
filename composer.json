@@ -1,25 +1,18 @@
 {
     "name": "ibrahimsayar/tc-identity-checker",
     "description": "Republic of Turkey ID number verification function.",
+    "type": "library",
     "keywords": ["tc-identity-checker", "tc", "identity", "identity number check"],
     "license": "MIT",
-    "homepage": "https://github.com/ibrahimsayar/tc-identity-checker",
     "authors": [
         {
             "name": "ibrahim.sayar",
             "email": "ibrahim.sayar@naylalabs.com"
         }
     ],
-    "require": {
-        "php": "^7.1|^8"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^7.0"
-    },
     "autoload": {
         "psr-4": {
-            "ibrahimsayar\\Checker\\": "src/"
+            "IdentityChecker\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
