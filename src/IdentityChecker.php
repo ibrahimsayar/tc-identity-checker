@@ -1,6 +1,6 @@
 <?php
 
-namespace ibrahimsayar\IdentityChecker;
+namespace TCIdentityChecker;
 
 class IdentityChecker
 {
