@@ -10,13 +10,9 @@
             "email": "ibrahim.sayar@naylalabs.com"
         }
     ],
+    "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {
-            "IdentityChecker\\": "src/"
-        }
+        "psr-4": {"ibrahimsayar\\IdentityChecker\\": "src/"}
     },
-    "require": {
-        "php": "^7.1|^8"
-    },
-    "minimum-stability": "stable"
+    "require": {}
 }
